@@ -1,0 +1,10 @@
+event_date,account_id,user_id,feature,event
+2025-01-01,A1,U1,Tasks,task_created
+2025-01-01,A1,U1,Tasks,task_updated
+2025-01-01,A1,U2,Reports,report_viewed
+2025-01-02,A1,U1,Tasks,task_completed
+2025-01-02,A2,U3,Tasks,task_created
+2025-01-03,A2,U3,Tasks,task_updated
+2025-01-03,A2,U4,Collaboration,comment_added
+2025-01-04,A3,U5,Tasks,task_created
+2025-01-04,A3,U5,Reports,report_viewed
